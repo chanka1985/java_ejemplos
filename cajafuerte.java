@@ -11,7 +11,7 @@ class cajafuerte{
             contador += 1;
             if(clave == 1357){
                 System.out.println("Combinacion correcta, bienvenido...!!!");
-                contador = 4;
+                contador = 4; 
             }
         }while(contador < 4);
     }
